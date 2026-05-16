@@ -58,4 +58,4 @@ The plugin utilizes a secure, permission-guarded command architecture to safely 
 * **Architecture:** Object-Oriented Programming (OOP), Component-Based Event Handling
 
 ---
-*Note: The core source code for this project is hosted in a private repository to protect custom gameplay assets and proprietary server logic. For architectural inquiries or technical discussion, feel free to reach out.*
+*Note: The core source code for this project is hosted in a private repository to protect custom gameplay assets and proprietary server logic. For architectural inquiries or technical discussion, feel free to reach out. Vibecoded*
