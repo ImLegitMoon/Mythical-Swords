@@ -1,0 +1,15 @@
+name: MythicalSwords
+main: com.mythical.mythicalswords.MythicalSwordsPlugin
+version: 1.0.0
+api-version: '1.20'
+author: Mythical
+description: Custom mythical netherite swords with abilities.
+commands:
+  mw:
+    description: Obtain a mythical sword once per player.
+    usage: /mw <sword>
+    permission: mythicalswords.command
+permissions:
+  mythicalswords.command:
+    description: Allows using /mw to obtain a mythical sword once.
+    default: op
